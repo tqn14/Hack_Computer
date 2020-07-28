@@ -1,2 +1,3 @@
 # Hack_Computer
-![Alt Text](https://photos.app.goo.gl/j4NjvVKBwgkntQBDA)
+<img src="https://github.com/tqn14/Hack_Computer/blob/master/demo.gif" width ="150" height="150" />
+
